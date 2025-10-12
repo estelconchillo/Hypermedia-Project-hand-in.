@@ -4,22 +4,24 @@
 
 ## Project Analysis
 > - **Project analysis, User profile: create a user persona for your website.**
->   The final user will be a boss or a person in charge of contracting new workers for the offer that I have applied for.
-
+>
+>   Gianna Richard Rae is a qualified Computer Engineering Student that wants to find a job opportunity related to software development, where she can apply technical skills, gain professional experience, and work in a collaborative environment. She needs a simple and professional way to present her skills to employers.
+> 
 > - **Project analysis, Information architecture: describe using around 200 words (minimum) how you have distributed the page’s information.**
 >
->   The name and the photo are the most important things, that is the reason whi I have dicided to put them at the top of the webpage and in a big size. Under the name I put the career that I'm cursing to let the persons know in wich field I am interested to work.
+>   The webpage is organized into two main columns to create an organized hierarchy. The left column is a personal and quick references section. At the top, it includes the user photo and the name, as these are the first elements to capture the attention. Below the photo it appears contact information such as phone number, email and location.
+>   Next, there are the Key Skills section that shows professional and personal abilities, followed by the languages section, wich is essential for employers.
 >
->   I have decided to divide the webpage in 2 different columns, the first one, it is the one that it is on the left part, and it contains the contact information and then some Key Skills to apport some characteristics about me and finally the languages that I speak wich are important when you are applying for a job.
+>   The right column focuses on professional background and academic information. It starts with the name and career title, followed by a Profile Summary it's a concise description of her goals, strengths and motivation. Below that, there is the Education section that details her current degree and university, indicating her academic progress. Finally, there is the professional experience section that shows her previous work in chronological order.
 >
->   The second column includes, wich career I'm studying, and then, a profile summary to explain a little bit who I am and under the profile summary there's the education section, wich contains the bachelor that I am studying for and the last thing is the Professional Expierence, an important thing to put if you are applying for a job.
+>   This structure highlights the most important information for hiring decisions.
+>  
 > - **Project analysis, Visual design: describe using around 200 words (minimum) the main decisions you have made for the visual design.**
 >
->   The color palette that I have decided to used is a combination of light and darks blues, I have decided to work with blues because it is related to formal and tech things so I think it would be a correct color to use on a cv.
+>   The visual design wants to show professionalism, simplicity and readibility. The color palette combines light and dark shades of blue, wich are often associated with technology and formalism. The contrast between the light blue sidebar and the white main area helps visually separate personal information from professional content improving clarity.
 >
->   I have combined two different typographies, for the titles, I've used "Libre Caslon Text" and for the paragraphs I have used Inter, wich a like a lot since it's easy to read and modern.
+>   I have combined two different typographies, for the titles, I've used "Libre Caslon Text" that gives the page an elegant and formal touch. And for the body text, I have used Inter, wich a like a lot since it's easy to read on screens and modern.
 >
->   I also have decided to put the first column in light blue to difference the two different columns. And I have included some links like the mail and the ubication.
->   Since it is a static webpage, for the moment, I have not included any interactional elemment. 
+>   The layouts prioritzies alignment and spacing, ensuring that each section is visually balanced. Since it is a static webpage, no interactive elements have been added yet.
 
 ## Link to the Figma Project
