@@ -32,3 +32,6 @@
 
 ## Link to the Figma Project
 https://www.figma.com/design/HlulsKJpNbXATjUQisDlHu/CV-Website?node-id=0-1&t=3ac7ai9z6qK6l103-1
+
+## Link to the CV Webpage
+
