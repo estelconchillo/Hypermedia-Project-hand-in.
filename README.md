@@ -29,7 +29,9 @@
 >   I have included a particular design for the links (mail and location), to make them consistent with the other elements, but when you hover over them they change color.
 >
 >   The layouts prioritzies alignment and spacing, ensuring that each section is visually balanced. Since it is a static webpage, no interactive elements have been added yet.
-
+>
+> I have also added media queries in the CSS to make the website responsive, adapting the layout for different screen sizes such as phones and tablets. Since it is a static webpage, no interactive elements have been added yet.
+> 
 ## Link to the Figma Project
 https://www.figma.com/design/HlulsKJpNbXATjUQisDlHu/CV-Website?node-id=0-1&t=3ac7ai9z6qK6l103-1
 
