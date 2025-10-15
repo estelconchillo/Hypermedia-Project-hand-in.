@@ -1,0 +1,182 @@
+body{
+    font-family: 'Inter', Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: #7E8083;
+    display: flex;
+    margin: 0 auto;
+}
+
+#information{
+    width: 450px;
+    color: white;
+    background-color: #A3C8FF;
+    padding: 20px 20px 20px 50px;
+}
+
+#information img{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+#information h3{
+    font-family: 'Libre Caslon Text', 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: lighter;
+    color: #003E6B;
+    margin-top: 50px;
+    margin-bottom: 21px;
+}
+
+#information ul{
+    list-style-type: circle;
+    color: white;
+    font-size: 18px;
+    line-height: 30px;
+    padding-left: 20px;
+}
+
+#information #contact #phone{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#information #contact #mail{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#information #contact #location{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#information #contact #location a{
+    text-decoration: none;
+    color: white;
+}
+
+#information #contact #location a:hover{
+    text-decoration: none;
+    color: #56638A;
+}
+
+#information #contact #mail a{
+    text-decoration: none;
+    color: white;
+}
+
+#information #contact #mail a:hover{
+    text-decoration: none;
+    color: #56638A;
+}
+
+#main-container{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+header{
+    text-align: left;
+    margin-left: 20px;
+    padding: 60px 20px 0px 70px;
+    background-color: white;
+}
+
+h1{
+    font-family: 'Inter', 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 45px;
+    color: #003E6B;
+    margin-bottom: 15px;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 24px;
+    color: #7692FF;
+    margin-bottom: 25px;
+}
+
+#main-content{
+    padding: 10px 140px 10px 90px;
+    flex: 1;
+}
+
+#main-content h3{
+    font-family: 'Libre Caslon Text', 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: lighter;
+    color: #003E6B;
+    margin-top: 50px;
+    margin-bottom: 21px;
+}
+
+#profilesummary p{
+    font-family: 'Inter', 'Times New Roman', Times, serif;
+    line-height: 30px;
+}
+
+.bachelor{
+    color: #56638A;
+}
+
+.university{
+    color: #778DA9;
+}
+
+.work{
+    margin-bottom: 30px;
+}
+
+.workandages{
+    color: #56638A;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0px;
+}
+
+.workinformation{
+    color: #56638A;
+    font-weight: bold;
+}
+
+.ages{
+    font-weight: normal;
+    margin: 0;
+    white-space: nowrap;
+}
+
+.workdescription {
+    font-size: 14px;
+    color: #778DA9;
+    margin-top: -5px;
+}
+
+.years{
+    font-size: 14px;
+}
+
+footer{
+    font-size: 14px;
+    background-color: #003E6B;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+}
+
+@media only screen and (max-width: 800px) {
+   /* For mobile: */
+   #main-content{
+      flex-direction: column;
+   }
+
+   body{
+      font-size: 0.8rem;
+   }
+}
